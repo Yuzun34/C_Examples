@@ -16,4 +16,5 @@ add_executable(C
         Queue.c
         Tree.c
         Hash.c
+        BST_Tree.c
 )
