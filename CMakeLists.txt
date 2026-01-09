@@ -15,6 +15,10 @@ add_executable(C
         Stack.c
         Queue.c
         Tree.c
-        Hash.c
         BST_Tree.c
+        AVL_Tree.c
+        Min_Heap.c
+        LAB9-1.c
+        LAB9-2.c
+        Hash.c
 )

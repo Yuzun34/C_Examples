@@ -79,6 +79,11 @@ void freeTree(TreeNode* root) {
     free(root);
 }
 
+
+int maxDepth(TreeNode* root) {
+
+}
+
 int main() {
     TreeNode* root = NULL;
 
