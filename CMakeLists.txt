@@ -18,7 +18,8 @@ add_executable(C
         BST_Tree.c
         AVL_Tree.c
         Min_Heap.c
-        LAB9-1.c
-        LAB9-2.c
+        24120205049_YusufUzun_LAB9-1.c
+        24120205049_YusufUzun_LAB9-2.c
         Hash.c
+        24120205049_YusufUzun_LAB10.c
 )
